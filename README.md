@@ -1,16 +1,5 @@
 # thilak.de - my personal website
 
-> Feel free to fork it!
-
-## Features
-- Beautiful and simple design.
-- Markdown for content.
-- Tags support.
-- Dark / Light toggle.
-- CSS variables, SCSS & BEM for styling.
-- 100, 100, 100, 100 score on Google Lighthouse.
-- Uses same front-matter fields as Dev.to.
-
 ## Install
 
 ### 1. Install Gridsome CLI tool if you don't have
