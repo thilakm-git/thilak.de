@@ -9,7 +9,7 @@
 		<a href="//twitter.com/thilakmahendran"><font-awesome :icon="['fab', 'twitter']"/></a>
 		<a href="//linkedin.com/in/thilakmahendran"><font-awesome :icon="['fab', 'linkedin-in']"/></a>
 		<a href="//github.com/thilakm-git"><font-awesome :icon="['fab', 'github']"/></a>
-		<a href="//thilak.de/blog"><font-awesome :icon="['far', 'bookmark']"/></a>
+		<a href="/blog"><font-awesome :icon="['far', 'bookmark']"/></a>
 		</p>
 
 	</div>
