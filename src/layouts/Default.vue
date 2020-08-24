@@ -17,6 +17,7 @@
 
     <footer class="footer">
       <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}</span>
+      <a href="/datenschutzerklaerung">Privacy policy</a>
     </footer>
 
   </div>
