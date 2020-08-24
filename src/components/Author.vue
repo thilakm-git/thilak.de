@@ -2,12 +2,13 @@
 	<div class="author">
 		<g-image alt="Thilak Mahendran" class="author__image" src="~/assets/images/author.jpg" width="3667" height="1600"/>
 
-		<h1>thilak mahendran</h1>
-		<p>sr. consultant for artificial intelligence at <a href="https://www.ibm.com/business-operations/resources/munich-center">IBM<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></p>
+		<h1>Thilak Mahendran</h1>
+		<p>Sr. consultant for artificial intelligence at <a href="https://www.ibm.com/business-operations/resources/munich-center">IBM<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></p>
 
 		<p class="author__links">
 		<a href="//twitter.com/thilakmahendran"><font-awesome :icon="['fab', 'twitter']"/></a>
 		<a href="//linkedin.com/in/thilakmahendran"><font-awesome :icon="['fab', 'linkedin-in']"/></a>
+		<a href="//github.com/thilakm-git"><font-awesome :icon="['fab', 'github']"/></a>
 		<a href="//thilak.de/blog"><font-awesome :icon="['far', 'bookmark']"/></a>
 		</p>
 

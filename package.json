@@ -12,12 +12,7 @@
     "@gridsome/remark-prismjs": "^0.2.0",
     "@gridsome/source-filesystem": "^0.6.0",
     "@gridsome/transformer-remark": "^0.3.0",
-<<<<<<< HEAD
-    "gridsome": "^0.7.0",
-    "gridsome-plugin-matomo": "^0.1.0"
-=======
     "gridsome": "^0.7.0"
->>>>>>> 23dab2341a595a861917776b32dee571c99eaea5
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
