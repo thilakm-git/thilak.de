@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'thilak.de',
+  siteName: 'Thilak Mahendran - thilak.de',
   siteUrl: 'https://thilak.de',
   siteDescription: 'Thilak Mahendran - thilak.de',
 
