@@ -16,9 +16,7 @@
     </main>
 
     <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}</span>
-      <a href="/datenschutzerklaerung">Privacy policy</a>
-      <span>| Only <a href="https://www.websitecarbon.com/website/thilak-de/">0.17g</a> of CO2 is produced every time someone visits this web page.</span>
+      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }} | <a href="/datenschutzerklaerung">Privacy policy</a> | Only <a href="https://www.websitecarbon.com/website/thilak-de/">0.17g</a> of CO2 is produced every time someone visits this web page. </span>
     </footer>
 
   </div>
@@ -74,7 +72,7 @@ export default {
   justify-content: center;
   padding: calc(var(--space) / 2);
   text-align: center;
-  font-size: .8em;
+  font-size: .7em;
 
   > span {
     margin: 0 .35em;
