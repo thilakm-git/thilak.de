@@ -18,6 +18,7 @@
     <footer class="footer">
       <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}</span>
       <a href="/datenschutzerklaerung">Privacy policy</a>
+      <span>| Only <a href="https://www.websitecarbon.com/website/thilak-de/">0.17g</a> of CO2 is produced every time someone visits this web page.</span>
     </footer>
 
   </div>
