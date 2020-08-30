@@ -1,5 +1,5 @@
 ---
-title: Datenschutzerkärung
+title: Privacy Policy
 date: 2020-01-01
 tags: ['footer']
 id: ['1']

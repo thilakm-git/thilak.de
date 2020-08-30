@@ -16,7 +16,8 @@
     </main>
 
     <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }} | <a href="/datenschutzerklaerung">Privacy policy</a> | Only <a href="https://www.websitecarbon.com/website/thilak-de/">0.17g</a> of CO2 is produced every time someone visits this web page. </span>
+      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }} | <a href="/datenschutzerklaerung">Privacy policy</a><h5><br>Only <a href="https://www.websitecarbon.com/website/thilak-de/">0.17g</a> of CO2 is produced every time someone visits my website. The average website produces
+1.76 grams CO2.</h5></span>
     </footer>
 
   </div>
